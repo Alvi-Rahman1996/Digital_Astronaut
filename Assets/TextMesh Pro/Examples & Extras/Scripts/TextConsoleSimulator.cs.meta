@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs.meta
+guid: 43bcd35a1c0c40ccb6d472893fe2093f
+timeCreated: 1435298333
+licenseType: Store
+========
+guid: b3ac2555338116d429f4a7033b303910
+>>>>>>>> feature/VR_Scene_Prototype:Assets/Scripts/Main_Lever.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

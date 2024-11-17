@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Prefabs/StarfieldMaterials/README/Readme.txt.meta
+guid: 9cf6306c32ff91949a36bb43611e61f5
+timeCreated: 1522320988
+licenseType: Store
+========
+guid: 68e5efdecd7abb54087b2d1befa38883
+>>>>>>>> feature/VR_Scene_Prototype:Assets/astronaut/README.txt.meta
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

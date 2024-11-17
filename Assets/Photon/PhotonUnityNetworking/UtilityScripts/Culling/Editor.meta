@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Photon/PhotonUnityNetworking/UtilityScripts/Culling/Editor.meta
+guid: fcede10f4c76b443483f21320fee20e5
+folderAsset: yes
+timeCreated: 1529329408
+licenseType: Store
+========
+guid: 571f2ec56ee32464d9918a8930cd3e26
+folderAsset: yes
+>>>>>>>> feature/VR_Scene_Prototype:Assets/EMU.meta
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

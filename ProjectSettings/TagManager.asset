@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - astronout
+  - RoboticArmEnd
+  - VR Helmet Camera
+  - VR Shoulder Camera
+  - VR ISS Camera 1
+  - VRPlayer
+  - TabletPlayer
+  - Tablet UI
+  - Selectable
+  - Dish1_Canvas
+  - LineRenderCamera
+  - VR ISS Camera 2
+  - Astronaut
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Tablet UI
+  - DrawingLayer
+  - Box
+  - Lever
+  - Lever2
+  - Lever3
+  - Lever4
+  - knob
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
